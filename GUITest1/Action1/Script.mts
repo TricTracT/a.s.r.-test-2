@@ -11,3 +11,12 @@ testVariabele = testVariabele + 5
 testVariabele = testVariabele + 5
 
 
+testVariabele = testVariabele + 5
+
+testVariabele = testVariabele + 5
+
+testVariabele = testVariabele + 5
+
+testVariabele = testVariabele + 5
+
+testVariabele = testVariabele + 5
